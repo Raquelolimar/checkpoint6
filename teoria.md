@@ -243,6 +243,8 @@ Delete sirve para eliminar un recurso.
 Estos verbos definen las acciones que se pueden realizar con lo que nos dá una API.
 Comunican la intención del cliente al servidor, indicando que operación debe realizar.  
 
+<img src="Captura de pantalla 2025-06-01 143101.png" alt="verbos" width="500">
+
 <h2> POST </h2>  
 
 La solicitud "Post" nos dice que queremos crear algo nuevo dentro de nuestra aplicación.   Podemos querer crear una nueva guía en el programa y pasar los datos. En lugar de poner código complejo, utilizamos Postman para añadir los datos que queramos.  
