@@ -294,7 +294,7 @@ Get/lista-de-la-compra
 ["leche", "pan", "huevos"]
 ~~~
 
-<img  
+ 
 
 <h2> DELETE </h2>
 
@@ -338,7 +338,7 @@ Están diseñadas para ofrecer alta disponibilidad y tolerancia a fallos.
 
 - Ofrece una amplia variedad de módulos de datos como clave-valor, documentos...y permite adaptarse a distintos tipos de aplicaciones y datos.  
 
-- También MongoDB es adecuada para gestionar datos no estructurados como los que encuentran en redes sociales o aplicaciones móviles.  
+- También MongoDB es adecuada para gestionar datos no estructurados como los que se encuentran en redes sociales o aplicaciones móviles.  
 
 La flexibilidad que tiene permite una mayor adaptación a los cambios en las aplicaciones.
 
@@ -368,7 +368,7 @@ A MongoDB no le importan tus datos, ni la estructura, es tan flexible que simple
 <img src="Captura de pantalla 2025-05-28 002837.png" alt="api" width="400">
 
 Interfaz de Programación de Aplicaciones.
-Es una forma en la que podemos comunicarnos con una aplicación y podemos hacerlo sin más. Nos da un conjunto de comandos que podemos usar y hacer que una aplicación se comunique con otro servidor en otra aplicación. Lo que nos la API es un conjunto de puntos finales. Un punto final es sólo una URL( a lo que podemos acceder como si usaramos el navegador).  
+Es una forma en la que podemos comunicarnos con una aplicación y podemos hacerlo sin más. Nos da un conjunto de comandos que podemos usar y hacer que una aplicación se comunique con otro servidor en otra aplicación. Lo que nos da la API es un conjunto de puntos finales. Un punto final es sólo una URL( a lo que podemos acceder como si usaramos el navegador).  
 
 Si colocamos en el navegador una API nos da un código confuso y muy dificil de entender y de trabajar con él.  
 
@@ -412,7 +412,7 @@ La API de Google Maps es una de las más usadas actualmente a nivel mundial.
 Postman es muy útil porque permite comunicarte con APIs externas. La API es un servicio, algo así como un sitio web o servidor con el que puedes comunicarte y que en vez de devolverte una página web, te devuelve datos.
 Método útil para desarrollar aplicaciones y pasar datos de un lado a otro.  
 
-<img src= "Captura de pantalla 2025-05-29 185623.png" alt="postman" width= "400">
+<img src= "Captura de pantalla 2025-05-29 185623.png" alt="postman" width= "500">
 
 Postman no es algo específico de un lenguaje de programación. Lo único que le interesa a esta herramienta es la solicitud de datos.  
 
@@ -420,7 +420,7 @@ Con Postman los datos que vamos a manejar son datos JSON, por lo que devolverá 
 
 Si ponemos en el navegador una API nos da todo el código confuso y es muy dificil trabajar con ello. Aqui es donde son importantes herramientas como Postman que se usa para simplificar la forma en la que podemos comunicarnos con las APIs.  
 
-<img src="Captura de pantalla 2025-05-30 192205.png" alt="codigo API" width="400">
+<img src="Captura de pantalla 2025-05-30 192205.png" alt="codigo API" width="500">
 
 Con Postman el código es fácil de leer y se puede hacer cualquier tipo de ajuste en un programa sobre la marcha.  
 
